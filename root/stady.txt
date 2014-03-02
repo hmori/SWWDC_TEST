@@ -1,6 +1,3 @@
 SWWDC で git 勉強するよ〜
 
-このあとはLTの時間です。by tototti。
-
-
-pull request してみんとす by yuuhic
+このあとはLTの時間です。by tototti。はーい。by hmori。
